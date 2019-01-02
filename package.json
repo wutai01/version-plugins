@@ -1,0 +1,20 @@
+{
+    "name": "version-plugins",
+    "version": "1.0.2",
+    "description": "webpack的一个生成版本version.json的插件, 参数 object：{path: '', version: '123'}",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "keywords": [
+      "webpack",
+      "plugins",
+      "version"
+    ],
+    "dependencies": {
+      "fs-extra": "^7.0.1"
+    },
+    "author": "wutai",
+    "license": "ISC"
+  }
